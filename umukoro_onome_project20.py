@@ -10,8 +10,8 @@ import requests
 API_URL = "https://api.npoint.io/43644ec4f0013682fc0d"
 
 # Replace these with your own details
-OWN_EMAIL = "Onome.umukoro2@gmail.com"
-OWN_PASSWORD = "godsgeneral4real"
+OWN_EMAIL = "your_mail_address@gmail.com"
+OWN_PASSWORD = "your_mail_address_password"
 
 
 # --------------------------------------------------
